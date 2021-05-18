@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(90deg, #10b4ae 0%, #2cafe2 100%);
+    text-align: center;
+    color: #fff;
+}
+
+#content {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#bpm {
+    font-size: 8em;
+}
+
+#instructions {
+    font-size: 3em;
+    font-weight: bold;
+}
