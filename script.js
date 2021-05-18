@@ -11,7 +11,7 @@ document.addEventListener("click", function () {
     if (counter === -1) {
         counter = 0;
     } else if (counter === 0) {
-        instHTML.innerHTML = "Tap again.";
+        instHTML.innerHTML = "Tap or click again.";
         startTime = time;
         counter = 1;
     } else {
