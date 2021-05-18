@@ -24,3 +24,19 @@ body {
     font-size: 3em;
     font-weight: bold;
 }
+
+button {
+  cursor: pointer;
+  background-color: #fff;
+  border: none;
+  padding: 20px 40px;
+  border-radius: 8px;
+  color: #2cafe2;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+button:focus {
+  outline: none;
+}
