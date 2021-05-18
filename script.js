@@ -24,4 +24,5 @@ function reset() {
     counter = -1;
     startTime  = 0;
     instHTML.innerHTML = "Tap or click to begin.";
+    bpmHTML.innerHTML = "0";
 }
